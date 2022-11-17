@@ -1,0 +1,44 @@
+team.stryno@ufst.dk
+nlo9l458
+
+NEW RULE:
+ - need to be able to explain model to two personas
+ - 
+
+TEAM NAME: Strynø
+ - Mengqian Wang
+ - Ernst Holm
+ - Xinyi Huang
+ - Sidsel L. R. Korch
+
+RULES:
+MODEL (worth 100 points)
+ - model predictions handed in latest 15:45 on friday (worth 100 points)
+
+PRESENTATION (worth 100 points)
+ - "Brugergrænseflade", how the models predictions can be used
+ - "Explainability" demonstration of the model and explaining how it works
+ - "Etik og jura"
+
+GitHub link: https://github.com/CRUFST/UFSTSolutionJam
+
+DATASET:
+ - 2 files, training.csv and holdout.csv
+ - 17148 rows
+ - 342 features
+
+PLAN:
+ - Make plan with group
+ - Look at data and understand what the overall problem is
+ - sift through features to find which ones are potentially useful
+ - make basic ass predictions with some basic sklearn model (LR) using a small amount of the data
+
+Adresseoplysning: 
+Virksomhedsoplysning: 
+Sagsoplysning: 
+Ejerkreds_ny: 
+Ejerkreds_tidligere: 
+Risikomarkering: 
+
+delete columns with full nans
+delete columns with low variation
