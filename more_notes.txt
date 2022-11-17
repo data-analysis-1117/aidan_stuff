@@ -1,0 +1,23 @@
+if 1 appears 75% of the time
+
+make a list of 0's and 1's with 25 0's and 75 1's
+
+make python pick a random number from there :/
+
+Are any of these categorical?
+ - ejerkreds_aktiv_130 ja
+ - ejerkreds_aktiv_129 ja
+ - ejerkreds_aktiv_127 ja
+ - ejerkreds_aktiv_80 ja
+ - ejerkreds_aktiv_102 ja
+ - ejerkreds_ny_32 ja
+ - ejerkreds_aktiv_34 ja
+
+With mean continuous get acc of:
+0.6852829082380534
+
+With median continuous get acc of:
+0.6773673409557315
+
+With median for categorical get acc of:
+0.6826443858106127
